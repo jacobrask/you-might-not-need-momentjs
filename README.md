@@ -28,4 +28,8 @@ now.toLocaleString('en-US', { month: 'short', day: 'numeric', year: '2-digit' })
 
 ## Relative time
 
-Currently a stage 1 EcmaScript proposal: [proposal-intl-relative-time](https://github.com/caridy/proposal-intl-relative-time).
+Currently a stage 1 EcmaScript proposal as [Intl.RelativeTimeFormat](https://github.com/caridy/proposal-intl-relative-time).
+
+## Durations
+
+Currently a stage 1 EcmaScript proposal as [Intl.DurationFormat](https://github.com/tc39/ecma402/issues/47).
